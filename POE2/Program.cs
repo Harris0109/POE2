@@ -19,6 +19,7 @@ public class Ingredient
      public int Calories { get; set; }
     public string FoodGroup { get; set; }
     //The method where the necessary information is stored
+
     public Ingredient(string name, string unit, double quantity, int calories, string foodGroup)
     {
         Name = name;
