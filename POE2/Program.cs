@@ -12,3 +12,9 @@ using System.Linq;
 
 //First class ingredients with 2 newly added place-holders for calories and foodGroup
 public class Ingredient
+{
+    public string Name { get; set; }
+    public string Unit { get; set; }
+    public double Quantity { get; set; }
+    public int Calories { get; set; }
+    public string FoodGroup { get; set; }
