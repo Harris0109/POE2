@@ -18,3 +18,4 @@ public class Ingredient
     public double Quantity { get; set; }
     public int Calories { get; set; }
     public string FoodGroup { get; set; }
+
