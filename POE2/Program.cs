@@ -9,3 +9,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+
+//First class ingredients with 2 newly added place-holders for calories and foodGroup
+public class Ingredient
